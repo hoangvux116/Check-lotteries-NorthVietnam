@@ -6,4 +6,4 @@ You can also use this script to check whether your two-digit numbers are lucky o
 ## How to run:
 1. Open terminal, run ```cd ~ && git clone https://github.com/hoangvux116/Check-lotteries-NorthVietnam```
 2. run ```python3 kiemtra_so_xo.py``` or ```python3 kiemtra_so_xo.py [LUCKYNUMBER(s)]```<br>
-Remark: LUCKYNUMBER is format as two-digit number in the range from 00 to 99
+Remark: LUCKYNUMBER is formated as two-digit number in the range from 00 to 99
