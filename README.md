@@ -1,7 +1,7 @@
 # Check North Vietnamese Traditional Lotteries Result (including check loto)
 source: https://ketqua.net/
 This script is used for getting today results of Traiditional Lotteries<br>
-You can also use this script to check whether your two-digit numbers are lucky or not<>
+You can also use this script to check whether your two-digit numbers are lucky or not<br>
 I wish you the best of luck!!!
 
 ## How to run:
